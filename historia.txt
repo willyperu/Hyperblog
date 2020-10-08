@@ -2,4 +2,7 @@ Hola: Willy 34 anos de edad y no me gusta el azul
 
 en camara parece alto y si es alto!
 
-hoy hablaremos de su vida y su maestria.
+hoy hablaremos de su vida y su maestria en programacion.
+
+sin más preámbulos allá vamos.
+
